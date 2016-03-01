@@ -1,5 +1,7 @@
 # pyswagger
 
+[![Join the chat at https://gitter.im/rightlag/pyswagger](https://badges.gitter.im/rightlag/pyswagger.svg)](https://gitter.im/rightlag/pyswagger?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 pyswagger 0.2.0
 
 Released: 7-Jan-2016
